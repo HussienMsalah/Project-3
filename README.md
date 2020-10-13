@@ -5,8 +5,11 @@ The Data set chosen for this project is the FordGoBike System Data set. This is 
 
 Main Findings from the Analysis: 
 • Customer users usually have more duration min more than subscribers
+
 • Market St at 10th St is the high demand station
+
 • Thursday and Friday are the most days with trip counts to start trips from Market St at 10th St.
+
 • Trips on Thursday are more compared to other days.
 • less subscribers have trips on Sunday and Saturday compared to customers.
 • Bikers on Saturday and Sunday bike longer compared to bikers on other days.
